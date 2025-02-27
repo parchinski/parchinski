@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on redesigning HackUCF's website and surviving college
+ 🔭 I’m currently working on CTFd and maintaining Hack@UCF's Online Socials & Website
  
- 🌱 I’m currently learning **Cloudflare, Expo, and Remix.js**
+ 🌱 I’m currently learning **Docker and CTfd Plugin Development**
 
-💬 Ask me about anything related to my current projects!!!
+💬 Network with me, I love to talk about projects and possibly working together for events.
 
 ⚡ Fun fact Git was orignally referenced by Linus Torvalds as the **"information manager from hell"**
 
@@ -52,12 +52,3 @@
   
   <br/><br/><br/>
 </div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=800 src="https://streak-stats.demolab.com?user=parchinski%20&theme=catppuccin-mocha&hide_border=true&date_format=n%2Fj%5B%2FY%5D" alt="streak stats"/>
-</div>
-<br/>
