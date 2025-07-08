@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on CTFd and maintaining Hack@UCF's Online Socials & Website
  
- 🌱 I’m currently learning **Docker and CTfd Plugin Development**
+ 🌱 I’m currently learning **Docker and CTFd**
 
 💬 Network with me, I love to talk about projects and possibly working together for events.
 
