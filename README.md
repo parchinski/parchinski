@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on CTFd and maintaining Hack@UCF's Online Socials & Website
+ 🔭 I’m currently working on finding work and maintaining Hack@UCF's Online Socials & Website
  
- 🌱 I’m currently learning **Docker and CTFd**
+ 🌱 I’m currently learning **DevOps and FullStack Development**
 
 💬 Network with me, I love to talk about projects and possibly working together for events.
 
