@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on finding work and maintaining Hack@UCF's Online Socials & Website
+ 🔭 I’m currently working on finding work and maintaining Hack@UCF.
  
  🌱 I’m currently learning **DevOps and FullStack Development**
 
