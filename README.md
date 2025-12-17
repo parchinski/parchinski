@@ -1,4 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=parchinski.parchinski" />
 
 <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&weight=900&size=32&duration=2500&pause=1000&color=CBA6F7&center=true&vCenter=true&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+Bryant+Parchinski" alt="Typing SVG" /></a>
@@ -10,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on finding work and maintaining Hack@UCF.
+ 🔭 I’m currently working on maintaining UCF and developing the best agent workflows in the world
  
  🌱 I’m currently learning **DevOps and FullStack Development**
 
